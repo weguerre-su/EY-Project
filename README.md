@@ -1,6 +1,7 @@
 # EY-Project Guidelines
 # Part 1:
 The U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics (BTS) tracks the on-time performance and delays of domestic flights operated by large air carriers. Your client has extracted data from https://www.transtats.bts.gov that can be leveraged to provide some key insights on the flight delay time and perform trend analysis on it. The client is particularly interested in anything you can tell them about flight delays in a few key cities.
+
 # Task:
 A.	Come up with a pre-defined metadata structure of the output format (column names, # of columns, etc.). Remember the goal is to transform this data in a long format.
 B.	Import the dataset in python and explore if it requires any data cleaning.
