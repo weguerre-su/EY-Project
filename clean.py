@@ -8,3 +8,5 @@ df.rename(columns={'Unnamed: 0':'Airport','Unnamed: 1':'City','Unnamed: 2':'Mont
 df1 = df.dropna()
 
 df1
+# Example on how to read data from excel file
+#The data in the excel file was clean normally
